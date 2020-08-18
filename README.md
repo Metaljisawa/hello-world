@@ -4,5 +4,6 @@ Just another repository
 Student in History passionned about coding and informatic, particullary about Hardware and Software.
 Specialisation on optimisation in Operating System.
 Also I'm musician and I love metal/rock/blues/jazz musics.
+League Of Legends player actually Platinium 1, and chess player ranked 2161 FIDE elo.
 
 Have a nice day !
